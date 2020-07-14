@@ -1,6 +1,7 @@
 import React from "react";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
-import Nav from "./components/Nav"
+import Nav from "./components/Nav";
+import Footer from "./components/Footer";
 import "./App.css";
 import SaveBooks from "./pages/SaveBook";
 import SearchBooks from "./pages/SearchBook";
@@ -18,6 +19,7 @@ function App() {
       <Route exact path="/saved/:id" component={SaveBooks} />
       </Switch>
       </div>
+      <Footer />
       </Router>
      
   );
