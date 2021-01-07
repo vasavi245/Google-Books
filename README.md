@@ -7,9 +7,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
   ## Table of Contents
   1. [Installation](#Installation)
-  2. [Usage](#Usage)Licence](#License)
+  2. [Usage](#Usage)
   3. [Contributing](#Contributing)
-  4. Licence](#License)
+  4. [Licence](#License)
   5. [Questions](#Questions)
   6. [Links](#Links)
   ## Installation
